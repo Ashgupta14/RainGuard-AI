@@ -1,25 +1,7 @@
 # RainGuard AI
 
-**AI-Driven Hyper-Local Early Warning System for Severe Weather Nowcasting**
+**AI-Driven Hyper-Local Early Warning System for Severe Weather Nowcasting** 
 
-**Smart India Hackathon 2026**
-
-**Problem Statement:**  
-SIH26077
-
-**Theme:**  
-Disaster Management
-
-**Category:**  
-Software
-
-**Team:**  
-Bharat Innovates
-
-**Team ID:**  
-126446
-
----
 
 ## 1. Project Overview
 RainGuard AI is a sophisticated intelligence engine designed to convert complex atmospheric signals into hyper-local, time-bound flood risk intelligence. By fusing multiple meteorological sources with ground impact data, the system provides actionable, high-confidence early warnings for highly vulnerable urban areas.

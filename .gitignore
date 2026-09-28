@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+dist/
+build/
+.npm
+coverage/
+
+# Python / FastAPI
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.pytest_cache/
+
+# Vercel
+.vercel/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
